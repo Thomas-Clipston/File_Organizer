@@ -5,5 +5,6 @@ Instructions:
 1. Install python on your computer
 2. download and run the file 
 3. Enter the directory you wish to organize
+4. If you want to exit the program enter close, exit, Close or Exit
 
 Warning: Be careful running this program because it will also sort applications into folder.
